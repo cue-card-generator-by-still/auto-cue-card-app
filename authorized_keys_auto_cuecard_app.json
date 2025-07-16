@@ -1,7 +1,6 @@
 {
-  "keys": [
-    "SHERRY2025",
-    "STILL_ADMIN",
-    "STILL_TEST"
+  "authorized": [
+    {"uuid": "73E22F58-A4F8-56B0-A1C0-EE0BDADF8709", "key": "STILL_INIT"},
+   
   ]
 }
